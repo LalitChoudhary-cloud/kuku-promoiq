@@ -210,3 +210,4 @@ def generate_pdf(output_path: str = "outputs/Solution_Doc_PromoIQ_Kuku.pdf"):
 
 if __name__ == "__main__":
     generate_pdf()
+
